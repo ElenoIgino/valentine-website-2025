@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Accetteresti degli sbaciottoli come regalo? 🥺", // The big question!
-            yesBtn: "Oh yeah",                                             // Text for "Yes" button
+            yesBtn: "Oh yeah!",                                             // Text for "Yes" button
             noBtn: "Puzzi"                                                 // Text for "No" button
         }
     },
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "AWEY WOWIE!! MAKE IT DIIIRTYY 🎉💝💖💝💓",
-        message: "Vieni a prendere il tuo regalino, I'm feeling _romantical_",
+        message: "Adesso vengo lì è ti spluffetto tutta!",
         emojis: "🎁💖🤗🐈‍⬛❤️💕"  // These will bounce around
     },
 
