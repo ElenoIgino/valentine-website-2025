@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "AWEY WOWIE!! MAKE IT DIIIRTYY 🎉💝💖💝💓",
-        message: "Adesso vengo lì è ti spluffetto tutta!",
+        message: "Adesso vengo lì e ti spluffetto tutta!",
         emojis: "🎁💖🤗🐈‍⬛❤️💕"  // These will bounce around
     },
 
